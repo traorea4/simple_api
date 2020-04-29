@@ -1,5 +1,5 @@
 FROM python:2.7-stretch
-LABEL maintainer="nkoubamarius@gmail.com"
+LABEL maintainer="304725@supinfo.com"
 WORKDIR /
 COPY . /
 #RUN pip install -r Flask
